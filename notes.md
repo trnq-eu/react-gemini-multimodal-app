@@ -14,3 +14,12 @@ downgrade es lint
 
 start frontend:
 `npm run start:frontend`
+
+start backend:
+`npm run start:backend`
+
+per installare tutte le dipendenze:
+`npm install`
+
+
+`rm -rf node_modules package-lock.json`
